@@ -1,0 +1,29 @@
+.dwtx-wrap .dwtx-status { margin: 12px 0; }
+.dwtx-pill {
+	display: inline-block;
+	padding: 2px 8px;
+	margin-left: 4px;
+	border-radius: 10px;
+	background: #e0e0e0;
+	font-size: 12px;
+	line-height: 1.6;
+}
+.dwtx-pill.dwtx-ok { background: #d6f5e0; color: #14633a; }
+.dwtx-pill.dwtx-bad { background: #fbe2e2; color: #8a1f1f; }
+.dwtx-pill.dwtx-warn { background: #fcf3d6; color: #7a5b00; }
+.dwtx-tab { margin-top: 16px; }
+.dwtx-feature-table { max-width: 640px; }
+.dwtx-upsell {
+	margin-top: 20px;
+	padding: 16px 20px;
+	border: 1px solid #c3c4c7;
+	border-left: 4px solid #2271b1;
+	background: #fff;
+	max-width: 640px;
+}
+.dwtx-metabox .dwtx-msg { display: block; margin-top: 8px; font-size: 12px; }
+.dwtx-metabox .dwtx-msg.dwtx-ok { color: #14633a; }
+.dwtx-metabox .dwtx-msg.dwtx-bad { color: #8a1f1f; }
+.dwtx-product-stock .dwtx-msg { margin-left: 8px; font-size: 12px; }
+.dwtx-product-stock .dwtx-msg.dwtx-ok { color: #14633a; }
+.dwtx-product-stock .dwtx-msg.dwtx-bad { color: #8a1f1f; }
